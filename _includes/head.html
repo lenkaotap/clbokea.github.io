@@ -15,23 +15,25 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
 
-
-
   <style>
   @media (max-width: 768px) {
-    .feature-section {
+    section {
       display: flex;
-      flex-direction: column-reverse; /* Ændrer rækkefølgen, så billedet kommer sidst */
-      align-items: center;
-      text-align: center;
+      flex-direction: column;
     }
 
-    .feature-section img {
-      margin: 20px 0; /* Sikrer, at der er margin over billedet */
-      width: 90%; /* Juster efter behov */
+    img {
+      /* For at sikre, at billedet flyttes til bunden */
+      order: 2;
+    }
+
+    h2, .lead {
+      /* For at sikre, at tekst kommer før billede */
+      order: 1;
     }
   }
 </style>
+
 
 
 </head>
