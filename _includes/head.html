@@ -14,4 +14,26 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
+
+  <style>
+  @media (max-width: 768px) {
+    .feature-section {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    .feature-section img {
+      margin: 0 0 20px 0;
+      width: 90%; /* Justere billedstørrelsen efter behov */
+    }
+
+    /* Tilføjer margin til sidst for at undgå at være for tæt på næste sektion */
+    .feature-section:last-child {
+      margin-bottom: 20px;
+    }
+  }
+</style>
+
 </head>
