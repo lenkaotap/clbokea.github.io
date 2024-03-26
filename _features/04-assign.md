@@ -6,7 +6,7 @@ subheading: (week 6)
 ---
 
 
-<iframe class="pull-left img-circle" src="https://raw.githubusercontent.com/clbokea/one-page-wonder-jekyll/gh-pages/periodic.html" width="600"></iframe>
+<iframe class="pull-left img-circle" src="https://clbokea.github.io/one-page-wonder-jekyll/periodic.html"></iframe>
 
 One interactive visualization in Bokeh
 
