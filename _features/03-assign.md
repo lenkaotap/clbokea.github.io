@@ -1,6 +1,6 @@
 ---
-id: services
-name: Services
+id: one-map
+name: One map
 heading: One map
 subheading:  (use techniques from Week 3 and 4)
 image: "https://raw.githubusercontent.com/clbokea/one-page-wonder-jekyll/gh-pages/prop_prostitution.png"
