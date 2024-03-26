@@ -2,11 +2,11 @@
 id: Bokeh
 name: Bokeh
 heading: One interactive visualization in Bokeh
-subheading: (week 6)
+subheading: 
 ---
 
 
-<iframe class="pull-left img-circle" src="https://clbokea.github.io/one-page-wonder-jekyll/periodic.html"></iframe>
+<iframe class="pull-left" src="https://clbokea.github.io/one-page-wonder-jekyll/periodic.html" witdh=60%></iframe>
 
 One interactive visualization in Bokeh
 
