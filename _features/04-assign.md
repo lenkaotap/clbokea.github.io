@@ -6,7 +6,7 @@ subheading:
 ---
 
 
-<iframe class="pull-left" src="https://clbokea.github.io/one-page-wonder-jekyll/periodic.html" witdh=60%></iframe>
+<iframe class="pull-left" src="https://clbokea.github.io/one-page-wonder-jekyll/periodic.html" witdh="60%"></iframe>
 
 One interactive visualization in Bokeh
 
