@@ -104,7 +104,8 @@ img {
 
 // Perfect circle
 .img-circle {
-  border-radius: 50%; // set radius in percents
+  border-radius: none; // set radius in percents
+  width: 50%; 
 }
 
 
