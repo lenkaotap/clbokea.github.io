@@ -3,7 +3,7 @@ id: Bokeh
 name: Bokeh
 heading: One interactive visualization in Bokeh
 subheading: (week 6)
-image: "https://raw.githubusercontent.com/clbokea/one-page-wonder-jekyll/gh-pages/prop_prostitution.png"
+image: "https://raw.githubusercontent.com/clbokea/one-page-wonder-jekyll/gh-pages/periodic.html"
 ---
 
 One interactive visualization in Bokeh
