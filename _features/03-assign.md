@@ -3,7 +3,7 @@ id: services
 name: Services
 heading: One map
 subheading:  (use techniques from Week 3 and 4)
-image: "https://github.com/clbokea/one-page-wonder-jekyll/raw/gh-pages/assets/prop_prostitution.png"
+image: "https://raw.githubusercontent.com/clbokea/one-page-wonder-jekyll/gh-pages/prop_prostitution.png"
 ---
 One map (use techniques from Week 3 and 4)
 
