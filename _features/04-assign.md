@@ -3,8 +3,10 @@ id: Bokeh
 name: Bokeh
 heading: One interactive visualization in Bokeh
 subheading: (week 6)
-image: "https://raw.githubusercontent.com/clbokea/one-page-wonder-jekyll/gh-pages/periodic.html"
 ---
+
+
+<iframe class="pull-left img-circle" src="https://raw.githubusercontent.com/clbokea/one-page-wonder-jekyll/gh-pages/periodic.html" width="600"></iframe>
 
 One interactive visualization in Bokeh
 
