@@ -1,7 +1,7 @@
 ---
 id: introduction
 name: Introduction
-heading: Prostitution in Sanfransico
+heading: Sex and the City San Fransisco edititon
 ---
 The story should have a brief introduction to the dataset so new readers from outside the class can understand what's going on.
 
