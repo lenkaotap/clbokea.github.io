@@ -6,7 +6,7 @@ subheading:
 ---
 
 
-<iframe class="pull-left" src="https://clbokea.github.io/one-page-wonder-jekyll/crime_insidents_per_hour.html" width="100%" style="margin: 0px 10px 10px 0px"></iframe>
+<iframe class="pull-left" src="https://clbokea.github.io/one-page-wonder-jekyll/crime_insidents_per_hour.html" style="width:100%; height:100%; border:none; margin: 0px 10px 10px 0px"></iframe>
 
 One interactive visualization in Bokeh
 
