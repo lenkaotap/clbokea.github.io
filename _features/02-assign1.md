@@ -3,7 +3,7 @@ id: assignmen1
 name: Bar Chart
 heading: One time-series / bar chart 
 subheading:
-image: "https://github.com/clbokea/one-page-wonder-jekyll/raw/gh-pages/assets/prostitution_pr_year.png"
+image: "https://github.com/clbokea/one-page-wonder-jekyll/raw/gh-pages/assets/prostitute_bar.png"
 ---
 One time-series / bar chart (it's OK to use the "fancy" plot-typs like calendar plots or polar bar-charts from Week 2, Part 4).
 
