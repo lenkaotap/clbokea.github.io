@@ -10,8 +10,10 @@ subheading: a map of where to find prostitutes in Sanfrancisco
 <script>
     renderPlotly();
 </script>
+You might find yourself wondering, where in San Francisco is prostitution most common? Let's first take a look at map of the districts of the city and the density of prostitution incidents for each district. 
 
-Looking at the interactive map of the districts of San Francisco, one can see that the most likely place to find a prostitute would be in the Tenderloin district, followed by the Mission, Northern, and Central districts.
+The map shows the data in normalized form, meaning that the number of incidents for each district is divided by the area of the district. This provides a more realistic overview of where prostitution crime incidents are most dense.
 
-The data is in normalized form, which means that the incidents are divided by the square meters of the district. This provides a more realistic overview of where prostitution crime incidents are most dense.
+Looking at this map, we see that prostitution is most common in the Tenderloin district, followed by the Mission, Northern, and Central districts.
 
+Let's examine this in further details. 
