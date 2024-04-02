@@ -6,7 +6,7 @@ subheading: A map of where to find your prostitute in Sanfrancisco
 # image: "https://raw.githubusercontent.com/clbokea/one-page-wonder-jekyll/gh-pages/prop_prostitution.png"
 ---
 
-<div id="plotly-div" class='img pull-right' style='width:60%'></div>
+<div id="plotly-div" class='pull-right' style='width:60%'></div>
 
 <script>
     renderPlotly();
