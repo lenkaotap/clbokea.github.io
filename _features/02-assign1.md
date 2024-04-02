@@ -2,7 +2,7 @@
 id: assignmen1
 name: Prostitution Occurrences
 heading: Prostitution occorrences in Sanfransico
-subheading: With its ups and downs
+subheading: Raise and Fall
 image: "https://github.com/clbokea/one-page-wonder-jekyll/raw/gh-pages/area_chart.png"
 ---
 
