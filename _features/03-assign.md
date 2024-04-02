@@ -1,8 +1,8 @@
 ---
 id: one-map
 name: map 
-heading: prostitution in SF districts 
-subheading: A map of where to find your prostitute in Sanfrancisco 
+heading: Prostitution in SF districts 
+subheading: a map of where to find your prostitute in Sanfrancisco 
 # image: "https://raw.githubusercontent.com/clbokea/one-page-wonder-jekyll/gh-pages/prop_prostitution.png"
 ---
 
@@ -12,9 +12,9 @@ subheading: A map of where to find your prostitute in Sanfrancisco
     renderPlotly();
 </script>
 
+Looking at the interactive map of the districts of Sanfrancisco one can see that the most likely place to find a prostitute should be in the disctrict oof Tenderlion, folowed by the Mission, Northern and Central districts.
 
 
 
 
 
-Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
