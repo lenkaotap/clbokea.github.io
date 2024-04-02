@@ -1,7 +1,7 @@
 # Sex and the City
 ## San Fransisco edititon
 
-Assignment 2, Data analasis and visualization 2024
+Assignment 2, Data Analysis and Visualization 2024
 
 ### Group: 42
 * Magdalena Maria Otap
@@ -15,6 +15,6 @@ Assignment 2, Data analasis and visualization 2024
 * Discussions about the story
 
 **Claus:** 
-* Set up of Jekyll site
+* Jekyll site and github repository
 * Texts on the site regarding the story and plots
 * Discussions about the story
