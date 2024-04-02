@@ -2,7 +2,7 @@
 id: one-map
 name: Prostitution in SF districts 
 heading: Prostitution in SF districts 
-subheading: a map of where to find your prostitute in Sanfrancisco 
+subheading: a map of where to find prostitutes in Sanfrancisco 
 # image: "https://raw.githubusercontent.com/clbokea/one-page-wonder-jekyll/gh-pages/prop_prostitution.png"
 ---
 
