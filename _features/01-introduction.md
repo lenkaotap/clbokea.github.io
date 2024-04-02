@@ -9,4 +9,3 @@ Crime incidents related to prostitution in San Francisco have decreased over the
 
 <i><small>Dataset used in this article: [Police Department Incident Reports: Historical 2003 to May 2018](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data)</small></i>
 
-Q: _The story should have a brief introduction to the dataset so new readers from outside the class can understand what's going on._
