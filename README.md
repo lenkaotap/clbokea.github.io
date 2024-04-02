@@ -10,6 +10,7 @@ Assignment 2, Data analasis and visualization 2024
 ## Contributions
    
 **Magdalena:**
+* Explorative analysis
 * All plots
 * Discussions about the story
 
