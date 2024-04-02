@@ -6,5 +6,7 @@ subheading:
 ---
 
 <iframe class="pull-left" src="https://clbokea.github.io/prostitution_test.html" style="width:100%; height:700px; border:none; margin: 0px 10px 10px 0px"></iframe>
+In the map above, one can observe the detailed development of various prostitution incidents from 2003 to 2017 and where they occurred in the San Francisco area. Again, prostitution incidents are primarily focused in the central districts of San Francisco. 
 
-In the map one can see a detailed development over the years 2003 to 2017 in where the different kinds of prostitution insidents occoured in the Sanfransisco area. Again prostitution incidemnts are promarely focus on the central districts of Sanfrancisco. If one sort the results based on prostitution incidents type it gives a clear overview of what areas to avoid and and what areras to persude (depending on ones interests and human needs).
+Sorting the results by type of prostitution incident provides a clear overview of which areas to avoid and which areas to pursue, depending on one's needs and interests.
+
