@@ -12,8 +12,7 @@ Assignment 2, Data Analysis and Visualization 2024
 **Magdalena (Lenka):**
 * Explorative analysis
 * All plots
-* Discussions about the story
-* Additions to the texts on the site
+* Discussions about the story and addition to the texts on the site
 
 **Claus:** 
 * Jekyll site and github repository
