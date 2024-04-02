@@ -1,8 +1,8 @@
 ---
 id: assignmen1
 name: Prostitution Occurrences
-heading: Prostitution occorrences in Sanfransico
-subheading: Raise and Fall
+heading: Raise and Fall
+subheading: of prostitution in Sanfransico 
 image: "https://github.com/clbokea/one-page-wonder-jekyll/raw/gh-pages/area_chart.png"
 ---
 
