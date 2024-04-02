@@ -1,18 +1,17 @@
 ---
 id: one-map
-name: card 
+name: map 
 heading: prostitution in SF districts 
-subheading:  
+subheading: A map of where to find your prostitute in Sanfrancisco 
 # image: "https://raw.githubusercontent.com/clbokea/one-page-wonder-jekyll/gh-pages/prop_prostitution.png"
 ---
 
-One map (use techniques from Week 3 and 4)
-
-<div id="plotly-div"></div>
+<div id="plotly-div" class='pull-right' style='width:50%'></div>
 
 <script>
     renderPlotly();
 </script>
+
 
 
 
