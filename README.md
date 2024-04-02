@@ -1,11 +1,8 @@
-# One Page Wonder Jekyll
+# Sex and the City
+## San Fransisco edititon
 
-[Jekyll](https://github.com/jekyll/jekyll) port of [One Page Wonder](https://github.com/IronSummitMedia/startbootstrap-one-page-wonder).
+Assignment 2, Data analasis and visualization 2024
 
-## Contributing
-
-1. Fork it ( https://github.com/mushishi78/one-page-wonder-jekyll/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+### Group: 42
+* Magdalena Maria Otap
+* Claus Bové
